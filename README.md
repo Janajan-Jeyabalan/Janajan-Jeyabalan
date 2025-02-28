@@ -48,9 +48,23 @@
 ---
 
 ## 🚀 **Top Projects**
-- 🛠️ [**Awesome-Project-1**](https://github.com/janajanjeyabalan/awesome-project-1) – Scalable backend for real-time applications.  
-- 🌍 [**AI-Powered-Tool**](https://github.com/janajanjeyabalan/ai-powered-tool) – Machine learning model for predictive analysis.  
-- 📦 [**DevOps Automation**](https://github.com/janajanjeyabalan/devops-automation) – Infrastructure as Code with Terraform & Kubernetes.  
+Here are some of my top projects. Check out more on my **[Portfolio Website](https://janajan-jeyabalan.github.io/Portfolio-Website/)**  
+
+### 🛣️ **Road Surface Deterioration AI/ML Application**  
+An AI/ML-powered application that predicts the condition of road surfaces by analyzing data from images, videos, and sensors. It helps in identifying signs of deterioration and predicting future maintenance needs.  
+**🛠️ Stack:** Python, Kafka, Neo4j  
+🔗 **[Source Code](#)**  
+
+### 🖼️ **Face Recognition App**  
+A technology-based application that identifies individuals from images or videos by comparing facial features with a database of stored faces. Uses deep learning algorithms for accurate face matching.  
+**🛠️ Stack:** Python, Django  
+🔗 **[Source Code](#)**  
+
+### 📩 **Firebase Cloud Messaging App**  
+A cross-platform messaging solution that allows developers to send notifications and messages to users on Android, iOS, and web, enabling personalized communication.  
+**🛠️ Stack:** Firebase, Java, Android Studio  
+🔗 **[Source Code](#)**  
+
 
 ---
 
