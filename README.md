@@ -42,10 +42,8 @@
 ---
 
 ## 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janajanjeyabalan&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janajanjeyabalan&theme=radical" width="49%" />
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=janajan-jeyabalan&theme=shades-of-purple)](https://git.io/streak-stats)
 
 ---
 
@@ -66,5 +64,3 @@
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!** ⭐
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=janajan-jeyabalan&theme=shades-of-purple)](https://git.io/streak-stats)
