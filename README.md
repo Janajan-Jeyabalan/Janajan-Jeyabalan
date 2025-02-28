@@ -55,11 +55,7 @@
 ---
 
 ## 📬 **Let's Connect!**
-<p align="left">
-<a href="https://linkedin.com/in/janajanjeyabalan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:janajan@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/janajanjey"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/janajan-j/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:janajan0129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/janajan_29/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
 
 ---
 
