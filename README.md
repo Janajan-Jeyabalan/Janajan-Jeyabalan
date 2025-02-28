@@ -12,7 +12,7 @@
 - 💡 Love solving complex problems and learning new technologies.  
 - 🎯 Experienced in **Full-Stack Development, Cloud Computing, and System Design**.  
 - 📚 Always exploring the latest trends in **AI, DevOps, and Web Technologies**.  
-- 🌱 Currently learning **Rust & Distributed Systems**.  
+- 🌱 Currently learning **AWS & Azure DevOps**.  
 - 🎯 Fun fact: I enjoy debugging more than coding!  
 
 ---
