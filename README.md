@@ -43,8 +43,6 @@
 
 ## 📈 **GitHub Stats**
 
-![Metrics](https://metrics.lecoq.io/janajan-jeyabalan?template=classic&base.header=0&gists=1&lines=1)
-
 ![A+ GitHub Rating](https://img.shields.io/badge/GitHub-A%2B-blue?style=for-the-badge&logo=github)
 
 
