@@ -43,7 +43,7 @@
 
 ## 📈 **GitHub Stats**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=janajan-jeyabalan&theme=shades-of-purple)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=janajan-jeyabalan&show_icons=true&theme=radical)
 
 ---
 
