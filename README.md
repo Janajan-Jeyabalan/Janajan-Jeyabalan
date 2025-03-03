@@ -43,7 +43,7 @@
 
 ## 📈 **GitHub Stats**
 
-![GitHub Contribution Snake](https://github.com/janajan-jeyabalan/janajan-jeyabalan/blob/output/github-contribution-grid-snake.svg)
+![Metrics](https://metrics.lecoq.io/your-username?template=classic&base.header=0&gists=1&lines=1)
 
 ![A+ GitHub Rating](https://img.shields.io/badge/GitHub-A%2B-blue?style=for-the-badge&logo=github)
 
