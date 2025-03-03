@@ -43,7 +43,7 @@
 
 ## 📈 **GitHub Stats**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janajan-jeyabalan&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Janajan-Jeyabalan&theme=radical)
 ![A+ GitHub Rating](https://img.shields.io/badge/GitHub-A%2B-blue?style=for-the-badge&logo=github)
 
 
