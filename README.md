@@ -43,6 +43,8 @@
 
 ## 📈 **GitHub Stats**
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)
+
 ![A+ GitHub Rating](https://img.shields.io/badge/GitHub-A%2B-blue?style=for-the-badge&logo=github)
 
 
