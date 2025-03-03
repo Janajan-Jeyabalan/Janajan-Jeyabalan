@@ -43,7 +43,8 @@
 
 ## 📈 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=janajan-jeyabalan&show_icons=true&theme=radical)
+![A+ GitHub Rating](https://img.shields.io/badge/GitHub-A%2B-blue?style=for-the-badge&logo=github)
+
 
 ---
 
